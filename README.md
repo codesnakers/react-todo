@@ -29,4 +29,6 @@ Step 7 :
 npm run start 
 ```
 
-you can find demo video here : https://youtu.be/OuQZXgeyIis
+Demo: https://bit.ly/2EDIXjk
+
+Demo Video : https://youtu.be/OuQZXgeyIis
