@@ -9,13 +9,18 @@ Step 1 :	create your firebase project<br />
 			import firebase-db-export.json into your database
             copy the rules provided in firebase.db.rules.json
 
-Step 2: after cloning the repo <br />
-rename src/config/keys.SAMPLE.js to src/config/keys.js<br />
-and add your firebase keys to that file<br />
-To get your firebase keys <br />
+Step 2 : clone the repo 
+
+Step 3 : run npm install in your terminal
+
+Step 4 : rename src/config/keys.SAMPLE.js to src/config/keys.js
+
+Step 5 : add your firebase keys to that file
+
+Step 6 : To get your firebase keys <br />
 go to console.firebase.google.com -> open your project -> Click Authentication on left menu -> Click Web Setup on top right corner<br />
-copy config to src/config/keys.js
+copy config object to src/config/keys.js
 
-
+Step 7 : npm run start 
 
 you can find demo video here : https://youtu.be/OuQZXgeyIis
