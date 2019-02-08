@@ -22,5 +22,5 @@ yarn-error.log*
 
 #.gitignore
 src/config/keys.js
-build/*
+/build
 node_modules/*

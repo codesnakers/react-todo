@@ -11,7 +11,10 @@ Step 1 :	create your firebase project<br />
 
 Step 2 : clone the repo 
 
-Step 3 : run npm install in your terminal
+Step 3 : run in your terminal 
+```sh 
+npm install 
+```
 
 Step 4 : rename src/config/keys.SAMPLE.js to src/config/keys.js
 
@@ -21,6 +24,9 @@ Step 6 : To get your firebase keys <br />
 go to console.firebase.google.com -> open your project -> Click Authentication on left menu -> Click Web Setup on top right corner<br />
 copy config object to src/config/keys.js
 
-Step 7 : npm run start 
+Step 7 : 
+```sh
+npm run start 
+```
 
 you can find demo video here : https://youtu.be/OuQZXgeyIis
